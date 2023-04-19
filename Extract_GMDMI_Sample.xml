@@ -1,0 +1,15 @@
+<route>
+	<removed>false</removed>
+	<id>?</id>
+	<params>
+		<TemplateId>extract-basic</TemplateId>
+		<InterfaceId>?</InterfaceId>
+		<KafkaTopic>?</KafkaTopic>
+		<DataSource>HISTORY</DataSource>
+		<UpdateDateColumn>INTF_CMPL_DTTM</UpdateDateColumn>
+		<DeIdentifyColumn></DeIdentifyColumn>
+		<CryptColumn>?</CryptColumn>
+		<InitialSelectQuery>?</InitialSelectQuery>
+		<SelectQuery>?</SelectQuery>
+	</params>
+</route>

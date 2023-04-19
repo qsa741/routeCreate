@@ -1,0 +1,14 @@
+<route>
+	<removed>false</removed>
+	<id>?</id>
+	<params>
+		<TemplateId>collect</TemplateId>
+		<InterfaceId>?</InterfaceId>
+		<Cluster>cluster</Cluster>
+		<KafkaTopic>?</KafkaTopic>
+		<CollectTable>?</CollectTable>
+		<CryptColumn>?</CryptColumn>
+		<DateColumn>?</DateColumn>
+		<Mode>NORMAL</Mode>
+	</params>
+</route>

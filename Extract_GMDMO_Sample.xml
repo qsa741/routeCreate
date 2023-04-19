@@ -1,0 +1,14 @@
+<route>
+	<removed>false</removed>
+	<id>?</id>
+	<params>
+		<TemplateId>extract-use-yn</TemplateId>
+		<InterfaceId>?</InterfaceId>
+		<KafkaTopic>?</KafkaTopic>
+		<DataSource>HISTORY</DataSource>
+		<CryptColumn>?</CryptColumn>
+		<InitialSelectQuery>?</InitialSelectQuery>
+		<UpdateSuccessQuery>?</UpdateSuccessQuery>
+		<UpdatePrcsNtoOQuery>?</UpdatePrcsNtoOQuery>
+	</params>
+</route>
